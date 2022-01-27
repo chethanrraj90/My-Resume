@@ -3,7 +3,7 @@
 ### 1. Clone the repository and enter its directory ###
 ```shell
 $ APP_NAME=MyResume \
-&& git clone https://github.com/akhilrajmailbox/${APP_NAME}.git \
+&& git clone https://github.com/chethanrraj90/${APP_NAME}.git \
 && cd ${APP_NAME}
 ```
 
