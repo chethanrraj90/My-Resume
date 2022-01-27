@@ -1,0 +1,14 @@
+.bowerrc
+.env
+.npmrc
+BUILD-*
+COMMIT
+NODE_ENV
+bower_modules/
+build-*/
+config/build.json
+node_modules/
+setup
+setup-deps
+.DS_Store
+npm-debug.log
