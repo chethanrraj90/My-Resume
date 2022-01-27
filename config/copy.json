@@ -1,0 +1,16 @@
+{
+  "author": {
+    "name": {
+      "first": "R"
+    , "last": "Chethan"
+    , "full": "@{./last} @{./first}"
+    }
+  , "nick": "chethu"
+  , "abbr": "chethanrraj90"
+  , "email": "@{./abbr}@gmail.com"
+  , "url":   "https://github.com/@{./abbr}"
+  }
+, "project": {
+    "license": "MIT"
+  }
+}

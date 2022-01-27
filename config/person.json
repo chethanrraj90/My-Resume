@@ -1,0 +1,54 @@
+{
+  "__parent": "./config.json"
+, "person": {
+    "name": {
+      "first": "R"
+    , "last": "Chethan"
+    , "full": "@{./last} @{./first}"
+    }
+  , "nick": "Chethu"
+  , "abbr": "chethanrraj90"
+  , "email": "@{./abbr}@gmail.com"
+  , "url":   "https://github.com/@{./abbr}"
+  , "bio": {
+      "birth": "Dec &apos;2001"
+    , "location": {
+        "country": "India"
+      , "city": "Bengaluru"
+      , "full": "@{./country}, @{./city}"
+      , "lat": 12.9121
+      , "lng": 77.6446
+      }
+    , "citizenship": "Indian"
+    }
+  , "home": {
+      "pos-prefix": "DevOps"
+    , "pos-title": "Architect"
+    , "pos-tags": "#DevOps #Linux #Cloud #Architect"
+    }
+  , "socials": {
+      "li": {
+        "name": "linkedin"
+      , "title": "Linkedin profile"
+      , "icon": "fab fa-linkedin"
+      , "url": "https://www.linkedin.com/in/akhil-raj-aa9a9a145/"
+      }
+    , "git": {
+        "name": "git"
+      , "title": "Github account"
+      , "icon": "fab fa-github"
+      , "url": "https://github.com/akhilrajmailbox"
+      }
+    , "docker": {
+        "name": "dockerhub"
+      , "title": "Docker Hub"
+      , "icon": "fab fa-docker"
+      , "url": "https://hub.docker.com/u/akhilrajmailbox/"
+      }
+    }
+  , "contacts": {
+      "cell": "nothing"
+    , "email": "bWFpbHRvOmFraGlscmFqbWFpbGJveEBnbWFpbC5jb20K"
+    }
+  }
+}
