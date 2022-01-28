@@ -37,13 +37,7 @@
         "name": "git"
       , "title": "Github account"
       , "icon": "fab fa-github"
-      , "url": "https://github.com/akhilrajmailbox"
-      }
-    , "docker": {
-        "name": "dockerhub"
-      , "title": "Docker Hub"
-      , "icon": "fab fa-docker"
-      , "url": "https://hub.docker.com/u/akhilrajmailbox/"
+      , "url": "https://github.com/chethanrraj90"
       }
     }
   , "contacts": {
