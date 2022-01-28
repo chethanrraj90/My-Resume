@@ -3,8 +3,8 @@
     {}
   , {
       "selector": "#about .section-title"
-    , "inclass":  "fadeOutDown"
-    , "outclass": "fadeInDown"
+    , "inclass":  "animate__fadeOutDown"
+    , "outclass": "animate__fadeInDown"
     }
   , {
       "selector": ".intro-sub"
