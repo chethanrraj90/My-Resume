@@ -32,121 +32,6 @@
     , "outclass": "rubberBand"
     }
   , {
-      "selector": "#objective h3"
-    , "inclass":  "lightSpeedIn"
-    , "outclass": "lightSpeedOut"
-    }
-  , {
-      "selector": "#objective p"
-    , "inclass":  "fadeInLeft"
-    , "outclass": "fadeOutLeft"
-    }
-  , {
-      "selector": "#scopes h3"
-    , "inclass":  "lightSpeedIn"
-    , "outclass": "lightSpeedOut"
-    }
-  , {
-      "selector": "#scope-01"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#scope-02"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#scope-03"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#scope-04"
-    , "inclass":  "rotateInDownRight"
-    , "outclass": "rotateOutDownRight"
-    }
-  , {
-      "selector": "#scope-05"
-    , "inclass":  "fadeInRightBig"
-    , "outclass": "fadeOutRightBig"
-    }
-  , {
-      "selector": "#scope-06"
-    , "inclass":  "fadeInUpBig"
-    , "outclass": "fadeOutUpBig"
-    }
-  , {
-      "selector": "#scope-07"
-    , "inclass":  "fadeInUpBig"
-    , "outclass": "fadeOutUpBig"
-    }
-  , {
-      "selector": "#scope-08"
-    , "inclass":  "fadeInRightBig"
-    , "outclass": "fadeOutRightBig"
-    }
-  , {
-      "selector": "#selfie h3"
-    , "inclass":  "fadeInRight"
-    , "outclass": "fadeOutRight"
-    }
-  , {
-      "selector": "#selfie p"
-    , "inclass":  "fadeInLeft"
-    , "outclass": "fadeOutLeft"
-    }
-  , {
-      "selector": "#whatido h3"
-    , "inclass":  "fadeInRight"
-    , "outclass": "fadeOutRight"
-    }
-  , {
-      "selector": "#whatido-p"
-    , "inclass":  "fadeInLeft"
-    , "outclass": "fadeOutLeft"
-    }
-  , {
-      "selector": "#whatido-01"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#whatido-02"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#whatido-03"
-    , "inclass":  "bounceInLeft"
-    , "outclass": "bounceOutLeft"
-    }
-  , {
-      "selector": "#whatido-04"
-    , "inclass":  "rotateInDownRight"
-    , "outclass": "rotateOutDownRight"
-    }
-  , {
-      "selector": "#whatido-05"
-    , "inclass":  "fadeInRightBig"
-    , "outclass": "fadeOutRightBig"
-    }
-  , {
-      "selector": "#whatido-06"
-    , "inclass":  "fadeInUpBig"
-    , "outclass": "fadeOutUpBig"
-    }
-  , {
-      "selector": "#whatido-07"
-    , "inclass":  "fadeInUpBig"
-    , "outclass": "fadeOutLeftBig"
-    }
-    , {
-      "selector": "#whatido-08"
-    , "inclass":  "fadeInUpBig"
-    , "outclass": "fadeOutLeftBig"
-    }
-  , {
       "selector": "#resume .section-title"
     , "inclass":  "fadeInDown"
     , "outclass": "fadeOutDown"
@@ -208,11 +93,6 @@
     }
   , {
       "selector": "#skills .section-title"
-    , "inclass":  "fadeInDown"
-    , "outclass": "fadeOutDown"
-    }
-  , {
-      "selector": "#portfolio .section-title"
     , "inclass":  "fadeInDown"
     , "outclass": "fadeOutDown"
     }
