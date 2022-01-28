@@ -1,4 +1,4 @@
-## MyResume
+## My-Resume
 
 
 * Clone your repository to the system
@@ -7,10 +7,10 @@
 ```
 mkdir /root/MyCV
 cd /root/MyCV
-git clone https://github.com/akhilrajmailbox/MyResume.git MyResume
-docker run -d -p 80:80 -p 443:443 -v /root/MyCV/letsencrypt:/etc/letsencrypt -v /root/MyCV/MyResume:/opt/MyResume -e "APP_NAME=MyResume" --name myresume --hostname myresume akhilrajmailbox/myresume:latest
+git clone https://github.com/chethanrraj90/My-Resume.git My-Resume
+docker run -d -p 80:80 -p 443:443 -v /root/MyCV/letsencrypt:/etc/letsencrypt -v /root/MyCV/MyResume:/opt/MyResume -e "APP_NAME=MyResume" --name myresume --hostname myresume chethanrraj90/my-resume:latest
 ```
-**change the `MyResume` with your repository cloned location.**
+**change the `My-Resume` with your repository cloned location.**
 
 
 **SSL Configuration**
@@ -35,6 +35,6 @@ certbot --apache -d mycv.mydomain.com
 
 ```
 cd /root/
-git clone https://github.com/akhilrajmailbox/MyResume.git MyResume
+git clone https://github.com/chethanrraj90/My-Resume.git My-Resume
 docker run --rm -v /root/MyResume:/opt/MyResume -e "APP_NAME=MyResume" --name myresume --hostname myresume akhilrajmailbox/myresume:latest artifactbuild
 ```
