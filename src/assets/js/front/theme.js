@@ -2,7 +2,7 @@
 /*!
  * Project:     cv
  * File:        ./assets/js/front/theme.js
- * Copyright(c) 2016-present Akhil Raj <akhilrajmailbox@gmail.com>
+ * Copyright(c) 2020-present Chethan R <chethanrraj90@gmail.com>
  * License:     MIT
  */
 /*!
