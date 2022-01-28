@@ -9,7 +9,7 @@
   , "nick": "Chethu"
   , "abbr": "chethanrraj90"
   , "email": "@{./abbr}@gmail.com"
-  , "url":   "https://github.com/@{./abbr}"
+  , "url":   "https://github.com/chethanrraj90"
   , "bio": {
       "birth": "Dec &apos;2001"
     , "location": {
@@ -22,16 +22,16 @@
     , "citizenship": "Indian"
     }
   , "home": {
-      "pos-prefix": "DevOps"
-    , "pos-title": "Architect"
-    , "pos-tags": "#DevOps #Linux #Cloud #Architect"
+      "pos-prefix": "Hi..!"
+    , "pos-title": "I am Chethan"
+    , "pos-tags": "#Student #Developer"
     }
   , "socials": {
       "li": {
         "name": "linkedin"
       , "title": "Linkedin profile"
       , "icon": "fab fa-linkedin"
-      , "url": "https://www.linkedin.com/in/akhil-raj-aa9a9a145/"
+      , "url": "https://www.linkedin.com/in/chethan-r-439325192"
       }
     , "git": {
         "name": "git"
@@ -42,7 +42,7 @@
     }
   , "contacts": {
       "cell": "nothing"
-    , "email": "bWFpbHRvOmFraGlscmFqbWFpbGJveEBnbWFpbC5jb20K"
+    , "email": "chethanrraj90@gmail.com"
     }
   }
 }
